@@ -7,7 +7,7 @@
 </h4>
 <br>
 
-<h4 align="center"> Contact me: </h4>
+<h4 align="center"> Social Media: </h4>
 <h1 align="center">
 <a href="https://github.com/AdrianVides56" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -27,11 +27,11 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdrianVides56&show_icons=true&theme=onedark" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AdrianVides56&show_icons=true&theme=onedark" align="center" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianVides56&show_icons=true&theme=onedark" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianVides56&show_icons=true&theme=onedark" align="center" style="width: 100%" />
  
 </td></tr></table>  
 

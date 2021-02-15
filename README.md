@@ -1,9 +1,14 @@
 <h1 align="center">
 ¡Hello, I'm Adrian Vides!
 </h1>
-
+<h4 align="center">
+ I'm a software developer in progress. <br>
+ Passionated by programming, videogames and music
+</h4>
 <br>
 
+<h4 align="center"> Contact me: </h4>
+<h1 align="center">
 <a href="https://github.com/AdrianVides56" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -16,7 +21,7 @@
 <a href="https://adrianvides56.medium.com" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
-
+</h1>
  
 
 ## Github Stats  

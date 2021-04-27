@@ -5,7 +5,6 @@
  I'm a software developer. <br>
  Passionated by programming, videogames and music
 </h4>
-<br>
 
 <h4 align="center"> Social Media: </h4>
 <h1 align="center">

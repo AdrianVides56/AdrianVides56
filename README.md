@@ -2,7 +2,7 @@
 ¡Hello, I'm Adrian Vides!
 </h1>
 <h4 align="center">
- I'm a software developer in progress. <br>
+ I'm a software developer. <br>
  Passionated by programming, videogames and music
 </h4>
 <br>
@@ -24,14 +24,17 @@
 </h1>
  
 
+<h4 align="center">¿Want to build a project together?</h4>
+<h4 align="center"><a href="mailto:adrianvj18@gmail.com">adrianvj18@gmail.com</a></h4>
+
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdrianVides56&show_icons=true&theme=onedark" align="center" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AdrianVides56&show_icons=true&theme=merko" align="center" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianVides56&show_icons=true&theme=onedark" align="center" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianVides56&show_icons=true&theme=merko&layout=compact" align="center" style="width: 100%" />
  
 </td></tr></table>  
 

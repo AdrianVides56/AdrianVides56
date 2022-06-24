@@ -42,12 +42,12 @@
 
 <h2 align="center">Github Stats</h2>
 <table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AdrianVides56&show_icons=true&theme=merko" align="center" style="width: 100%" />
+ 
+ [![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianVides56&show_icons=true&theme=github_dark)](https://github.com/AdrianVides56/github-readme-stats)
 
 </td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianVides56&show_icons=true&theme=merko&layout=compact" align="center" style="width: 100%" />
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianVides56&hide=javascript&layout=compact&theme=github_dark)](https://github.com/AdrianVides56/github-readme-stats)
  
 </td></tr></table>  
 
